@@ -37,6 +37,6 @@ Drobo, originally known as Data Robotics, is a company that specializes in exter
 
 ## Key Technologies
 
--- **BeyondRAID**: Drobo's proprietary technology that simplifies RAID setup and management, providing data protection and easy expandability without traditional RAID's complexity.
--- **Drobo Dashboard**: A management interface that allows users to monitor and configure their Drobo devices easily.
--- **Integration with Cloud Services**: Drobo has integrated with various cloud services to provide hybrid storage solutions.
+- **BeyondRAID**: Drobo's proprietary technology that simplifies RAID setup and management, providing data protection and easy expandability without traditional RAID's complexity.
+- **Drobo Dashboard**: A management interface that allows users to monitor and configure their Drobo devices easily.
+- **Integration with Cloud Services**: Drobo has integrated with various cloud services to provide hybrid storage solutions.
