@@ -1,13 +1,13 @@
 # Drobo
 Drobo, originally known as Data Robotics, is a company that specializes in external storage devices designed to be easy to use for both consumers and small businesses. Drobo devices are known for their BeyondRAID technology, which provides data redundancy and protection without the complexity traditionally associated with RAID systems. Here's an overview of Drobo's history and its parent company, StorCentric:
 
-#Drobo History
-##1. Founding and Early Years (2005-2007)
+# Drobo History
+## 1. Founding and Early Years (2005-2007)
 
 2005: Data Robotics, the original name of Drobo, was founded by Dr. Geoff Barrall, a veteran in the storage industry.
 2007: The first Drobo storage device was released, gaining attention for its user-friendly approach to data protection and storage.
 
-##2. Growth and Product Expansion (2008-2013)
+## 2. Growth and Product Expansion (2008-2013)
 
 Drobo continued to innovate with new products, including models aimed at professionals and small businesses.
 The introduction of DroboPro and DroboElite expanded their offerings to networked storage solutions.
