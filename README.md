@@ -30,10 +30,12 @@ Drobo, originally known as Data Robotics, is a company that specializes in exter
 
 - StorCentric acquired several other companies, including Retrospect (data backup solutions) and Nexsan (enterprise storage solutions), to broaden its offerings.
 
-### 3. Continued Innovation and Challenges (2020-Present)
+### 3. Continued Innovation and Challenges (2020-2022)
 
 - Under StorCentric, Drobo continued to release new products and updates to existing lines.
 - The company faced challenges, including supply chain issues and market competition, but remained focused on providing user-friendly, reliable storage solutions.
+### 4. Bankrupcy (2022-Present)
+In June 2022, StorCentric, the holding company for Drobo, filed for Chapter 11 bankruptcy. After failing to reorganize the company or find a buyer, StorCentric transitioned to Chapter 7 bankruptcy in April 2023, which is a liquidation process. As of January 27, 2023, Drobo support and products are no longer available, and the company went out of business. The Drobo website notes that support has transitioned to a self-service model.  Hence this GitHub repository.
 
 ## Key Technologies
 
