@@ -3,9 +3,8 @@ Drobo, originally known as Data Robotics, is a company that specializes in exter
 
 # Drobo History
 ## 1. Founding and Early Years (2005-2007)
-
-2005: Data Robotics, the original name of Drobo, was founded by Dr. Geoff Barrall, a veteran in the storage industry.
-2007: The first Drobo storage device was released, gaining attention for its user-friendly approach to data protection and storage.
+- 2005: Data Robotics, the original name of Drobo, was founded by Dr. Geoff Barrall, a veteran in the storage industry.
+- 2007: The first Drobo storage device was released, gaining attention for its user-friendly approach to data protection and storage.
 
 ## 2. Growth and Product Expansion (2008-2013)
 
