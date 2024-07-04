@@ -30,7 +30,7 @@ Drobo, originally known as Data Robotics, is a company that specializes in exter
 
 - StorCentric acquired several other companies, including Retrospect (data backup solutions) and Nexsan (enterprise storage solutions), to broaden its offerings.
 
-### 43. Continued Innovation and Challenges (2020-Present)
+### 3. Continued Innovation and Challenges (2020-Present)
 
 - Under StorCentric, Drobo continued to release new products and updates to existing lines.
 - The company faced challenges, including supply chain issues and market competition, but remained focused on providing user-friendly, reliable storage solutions.
