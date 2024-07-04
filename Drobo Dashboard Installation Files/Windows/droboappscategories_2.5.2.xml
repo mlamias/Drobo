@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<CategoryList>
+	<Category name="Drobo Apps">
+		<AppName>myDrobo</AppName>
+		<AppName>DroboAccess</AppName>
+		<AppName>DroboPix</AppName>
+		<AppName>RetrospectBackup</AppName>
+	</Category>
+	<Category name="Popular Apps">
+		<AppName>DroboAccess</AppName>
+		<AppName>DroboPix</AppName>
+		<AppName>koken</AppName>
+		<AppName>wordpress</AppName>
+		<AppName>RetrospectBackup</AppName>
+		<AppName>plex</AppName>
+		<AppName>couchpotato</AppName>
+		<AppName>headphones</AppName>
+		<AppName>mysql</AppName>
+		<AppName>python3</AppName>
+		<AppName>ruby2</AppName>
+		<AppName>transmission</AppName>
+		<AppName>apache</AppName>
+		<AppName>java8</AppName>
+		<AppName>ResilioSync</AppName>
+		<AppName>elephantdrive</AppName>
+		<AppName>nodejs</AppName>
+		<AppName>mailserver</AppName>
+		<AppName>nfs</AppName>
+		<AppName>fileshadow</AppName>
+	</Category>
+	<Category name="Cloud and Remote Access">
+		<AppName>DroboAccess</AppName>
+		<AppName>ResilioSync</AppName>
+		<AppName>elephantdrive</AppName>
+		<AppName>fileshadow</AppName>
+		<AppName>owncloud</AppName>
+		<AppName>pydio</AppName>
+	</Category>
+	<Category name="Entertainment Apps">
+		<AppName>firefly</AppName>
+		<AppName>minidlna</AppName>
+		<AppName>plex</AppName>
+		<AppName>twonky</AppName>
+	</Category>
+	<Category name="Media Collection">
+		<AppName>aria2</AppName>
+		<AppName>couchpotato</AppName>
+		<AppName>headphones</AppName>
+		<AppName>koken</AppName>
+		<AppName>nzbget</AppName>
+		<AppName>sabnzbd</AppName>
+		<AppName>sickbeard</AppName>
+		<AppName>transmission</AppName>
+	</Category>
+	<Category name="Network Applications">
+		<AppName>mailserver</AppName>
+		<AppName>nfs</AppName>
+		<AppName>proftpd</AppName>
+		<AppName>QuikFynd</AppName>
+		<AppName>RetrospectBackup</AppName>
+		<AppName>wordpress</AppName>
+	</Category>
+	<Category name="System Applications">
+		<AppName>apache</AppName>
+		<AppName>java8</AppName>
+		<AppName>locale</AppName>
+		<AppName>mono</AppName>
+		<AppName>mysql</AppName>
+		<AppName>netsnmp</AppName>
+		<AppName>nodejs</AppName>
+		<AppName>perl5</AppName>
+		<AppName>python2</AppName>
+		<AppName>python3</AppName>
+		<AppName>ruby2</AppName>
+	</Category>
+	<Category name="System Utilities">
+		<AppName>p7zip</AppName>
+		<AppName>bash</AppName>
+		<AppName>dropbear</AppName>
+		<AppName>git</AppName>
+		<AppName>htop</AppName>
+		<AppName>mc</AppName>
+		<AppName>nano</AppName>
+		<AppName>par2</AppName>
+		<AppName>screen</AppName>
+		<AppName>svn</AppName>
+	</Category>
+</CategoryList>

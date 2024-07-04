@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<AppsList>
+  <App>
+    <Name>myDrobo</Name>
+    <DisplayName>myDrobo</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/myDrobo.tgz</Download>
+    <Description>myDrobo provides end-to-end secure access to select services on your Drobo from the public internet.</Description>
+    <Version>1.1.1.121</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+    <HelpText>Need help setting up a Drobo App &#x2013; Contact Support</HelpText>
+    <HelpLink>https://myproducts.drobo.com/cc/customerSupportRequest.html#sblox=support</HelpLink>
+  </App>
+  <App>
+    <Name>DroboAccess</Name>
+    <DisplayName>DroboAccess</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/DroboAccess.tgz</Download>
+    <Description>DroboAccess provides access to files, images and photos on your Drobo from a web browser, or a mobile device.</Description>
+    <Version>9.1.8.127</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>DroboPix</Name>
+    <DisplayName>DroboPix</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/DroboPix.tgz</Download>
+    <Description>DroboPix app allow owners to easily and automatically upload their photos and videos from their Android or iOS device to a Network Attached Storage Drobo.</Description>
+    <Version>1.0.3.80</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+    <HelpText>Need help setting up a Drobo App &#x2013; Contact Support</HelpText>
+    <HelpLink>https://myproducts.drobo.com/cc/customerSupportRequest.html#sblox=support</HelpLink>
+  </App>
+  <App>
+    <Name>apache</Name>
+    <DisplayName>Apache</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/apache.tgz</Download>
+    <Description>Apache is a freely available Web server that is distributed under an &#x201C;open source&#x201D; license.</Description>
+    <Version>2.4.37.48</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+    <HelpText>For help with the Apache app click here</HelpText>
+    <HelpLink>https://httpd.apache.org/support.html</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://httpd.apache.org/</MoreInformationLink>
+  </App>
+  <App>
+    <Name>aria2</Name>
+    <DisplayName>Aria2</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/aria2.tgz</Download>
+    <Description>Lightweight multi-protocol &amp; multi-source command-line download utility that supports HTTP/HTTPS, FTP, BitTorrent and Metalink.</Description>
+    <HelpText>For help with the Aria 2 app click here</HelpText>
+    <HelpLink>http://aria2.sourceforge.net/manual/en/html/index.html</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>http://aria2.sourceforge.net/</MoreInformationLink>
+    <Version>1.17.1-2</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>bash</Name>
+    <DisplayName>Bash</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/bash.tgz</Download>
+    <Description>Bash is a Unix shell and command language written by Brian Fox for the GNU Project. </Description>
+    <HelpText>For help with the Bash app click here</HelpText>
+    <HelpLink>http://www.drobospace.com/forums/forumdisplay.php?fid=9</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://www.gnu.org/software/bash/</MoreInformationLink>
+    <Version>4.3.42</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>couchpotato</Name>
+    <DisplayName>CouchPotato</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/couchpotato.tgz</Download>
+    <Description>Automatic Movie Downloading and PVR application for usenets &amp; torrents.</Description>
+    <HelpText>For help with the Couch Potato app click here</HelpText>
+    <HelpLink>https://couchpota.to/forum/viewforum.php?f=4</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://couchpota.to/</MoreInformationLink>
+    <Version>3.0.1</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>dropbear</Name>
+    <DisplayName>Dropbear</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/dropbear.tgz</Download>
+    <Description>SSH Server for secure command line access to a Drobo.</Description>
+    <MoreInformation>More Information and Support on Dropbear</MoreInformation>
+    <MoreInformationLink>https://matt.ucc.asn.au/dropbear/dropbear.html</MoreInformationLink>
+    <Version>2015.67.2</Version>
+    <WebUI/>
+    <SetupWizard/>
+    <HelpText>For help with the Apache app click here</HelpText>
+    <HelpLink>https://httpd.apache.org/support.html</HelpLink>
+  </App>
+  <App>
+    <Name>elephantdrive</Name>
+    <DisplayName>ElephantDrive</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/elephantdrive.tgz</Download>
+    <Description>Secure and automated cloud backup, optimized for Drobo.</Description>
+    <Version>4.4.9.11</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+    <HelpText>Elephant Drive App Support</HelpText>
+    <HelpLink>http://support.elephantdrive.com/forums/22120008-Drobo</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>http://home.elephantdrive.com/welcome/drobo/</MoreInformationLink>
+  </App>
+  <App>
+    <Name>firefly</Name>
+    <DisplayName>Firefly</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/firefly.tgz</Download>
+    <Description>Open-source media server for the Roku SoundBridge and iTunes.</Description>
+    <HelpText>Firefly App Support</HelpText>
+    <HelpLink>https://www.fireflymediaserver.net/forums/forum/firefly-media-server/</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://www.fireflymediaserver.net</MoreInformationLink>
+    <Version>0.2.4.2-3</Version>
+    <WebUI>:3689/</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>git</Name>
+    <DisplayName>Git SCM</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/git.tgz</Download>
+    <Description>A version control system using distributed revisions for software development.</Description>
+    <HelpText>Git App Support</HelpText>
+    <HelpLink>https://git-scm.com/doc</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://git-scm.com</MoreInformationLink>
+    <Version>2.6.3</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>headphones</Name>
+    <DisplayName>Headphones</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/headphones.tgz</Download>
+    <Description>Automatic music downloader for SABnzbd.</Description>
+    <HelpText>Headphones App Support</HelpText>
+    <HelpLink>https://github.com/rembo10/headphones/wiki/Usage-guide</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://github.com/rembo10/headphones</MoreInformationLink>
+    <Version>0.5.9</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>htop</Name>
+    <DisplayName>htop</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/htop.tgz</Download>
+    <Description>Interactive process viewer for text-mode consoles</Description>
+    <HelpText>htop App Support</HelpText>
+    <HelpLink>https://github.com/hishamhm/htop/issues</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://hisham.hm/htop/</MoreInformationLink>
+    <Version>1.0.3-1</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>java8</Name>
+    <DisplayName>Java 8</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/java8.tgz</Download>
+    <Description>A computer programming language that is concurrent, class-based and object-oriented.</Description>
+    <HelpText>Java App Support</HelpText>
+    <HelpLink>https://www.java.com/en/download/help/</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>http://www.java.com/</MoreInformationLink>
+    <Version>8.33.05</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>koken</Name>
+    <DisplayName>Koken</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/koken.tgz</Download>
+    <Description>Content management and web site publishing for photographers</Description>
+    <Version>0.22.24.35</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+    <HelpText>Koken App Support</HelpText>
+    <HelpLink>http://help.koken.me/</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>http://koken.me/</MoreInformationLink>
+  </App>
+  <App>
+    <Name>locale</Name>
+    <DisplayName>Locale</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/locale.tgz</Download>
+    <Description>Locale provides support for location-aware programs, correctly displaying currencies, time and date formats, and other local standards.</Description>
+    <Version>2.11.1.16</Version>
+    <WebUI/>
+    <SetupWizard/>
+    <MoreInformation>More Information and Support</MoreInformation>
+    <MoreInformationLink>https://en.wikipedia.org/wiki/Locale</MoreInformationLink>
+  </App>
+  <App>
+    <Name>mailserver</Name>
+    <DisplayName>Modoboa Mailserver</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/mailserver.tgz</Download>
+    <Description>Mail hosting and management platform with a modern and simplified Web User Interface for webmail services.</Description>
+    <HelpText>Modoboa Mailserver App Support</HelpText>
+    <HelpLink>https://modoboa.com/en/support-ticket/</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://modoboa.org/en/</MoreInformationLink>
+    <Version>1.0.1</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>mc</Name>
+    <DisplayName>Midnight Commander</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/mc.tgz</Download>
+    <Description>Midnight Commander is a directory browsing and file manipulation program.</Description>
+    <HelpText>Midnight Commander App Support</HelpText>
+    <HelpLink>https://midnight-commander.org/wiki/TracSupport</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://midnight-commander.org</MoreInformationLink>
+    <Version>4.8.14</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>minidlna</Name>
+    <DisplayName>MiniDLNA</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/minidlna.tgz</Download>
+    <Description>Server software fully compliant with DLNA/UPnP clients that serves music, picture, and video files to clients on a network.</Description>
+    <HelpText>MiniDLNA App Support</HelpText>
+    <HelpLink>https://sourceforge.net/projects/minidlna/support?source=navbar</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://sourceforge.net/projects/minidlna/</MoreInformationLink>
+    <Version>1.1.5</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>mono</Name>
+    <DisplayName>Mono 5</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/mono.tgz</Download>
+    <Description>A software platform designed to allow developers to easily create cross platform applications.</Description>
+    <HelpText>Mono 5 App Support</HelpText>
+    <HelpLink>http://www.mono-project.com/community/</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>http://www.mono-project.com</MoreInformationLink>
+    <Version>5.12.0.226.2</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>mysql</Name>
+    <DisplayName>MySQL</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/mysql.tgz</Download>
+    <Description>The world&#x2019;s most popular open source database.</Description>
+    <Version>5.6.32.29</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+    <HelpText>MySQL App Support</HelpText>
+    <HelpLink>https://www.mysql.com/support/</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://www.mysql.com</MoreInformationLink>
+  </App>
+  <App>
+    <Name>nano</Name>
+    <DisplayName>Nano</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/nano.tgz</Download>
+    <Description>A text editor for Unix-like computing systems or operating environments using a command line interface.</Description>
+    <HelpText>Nano App Support</HelpText>
+    <HelpLink>https://www.nano-editor.org/contact.php</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://www.nano-editor.org/docs.php</MoreInformationLink>
+    <Version>2.4.2</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>nfs</Name>
+    <DisplayName>NFS</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/nfs.tgz</Download>
+    <Description>NFSv3 The Network File System (NFS) is a client/server application that lets a computer user view and optionally store and update file on a remote computer.</Description>
+    <HelpText>NFS App Support</HelpText>
+    <HelpLink>https://sourceforge.net/projects/nfs/support</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>http://nfs.sourceforge.net</MoreInformationLink>
+    <Version>1.3.3.10</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>nodejs</Name>
+    <DisplayName>Node.js</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/nodejs.tgz</Download>
+    <Description>Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.</Description>
+    <HelpText>Node.js App Support</HelpText>
+    <HelpLink>https://github.com/nodejs/help/issues</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://nodejs.org/en/</MoreInformationLink>
+    <Version>8.11.2.7</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>nzbget</Name>
+    <DisplayName>NZBGet</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/nzbget.tgz</Download>
+    <Description>Usenet-client written in C++ and designed with performance in mind to achieve maximum download speed by using very little system resources.</Description>
+    <HelpText>NZBGet App Support</HelpText>
+    <HelpLink>https://forum.nzbget.net</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>http://nzbget.net/</MoreInformationLink>
+    <Version>15.0-1</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>owncloud</Name>
+    <DisplayName>ownCloud</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/owncloud.tgz</Download>
+    <Description>Is an open source solution for file syncing and remote access. You own your cloud.</Description>
+    <HelpText>ownCloud App Support</HelpText>
+    <HelpLink>https://owncloud.org/support/</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://owncloud.org</MoreInformationLink>
+    <Version>8.2.0</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>p7zip</Name>
+    <DisplayName>P7zip</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/p7zip.tgz</Download>
+    <Description>Open source file archiver software used primarily to compress and decompress files.</Description>
+    <HelpText>7-Zip App Support</HelpText>
+    <HelpLink>http://www.7-zip.org/support.html</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>http://www.7-zip.org</MoreInformationLink>
+    <Version>9.38.1-1</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>par2</Name>
+    <DisplayName>Par2</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/par2.tgz</Download>
+    <Description>File verification and repair tool</Description>
+    <HelpText>Par2 App Support</HelpText>
+    <HelpLink>https://sourceforge.net/p/parchive/support-requests/</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>http://parchive.sourceforge.net</MoreInformationLink>
+    <Version>0.6.14</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>perl5</Name>
+    <DisplayName>Perl 5</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/perl5.tgz</Download>
+    <Description>A highly capable, feature-rich programming language used primarily for developing Web applications.</Description>
+    <HelpText>Perl 5 App Support</HelpText>
+    <HelpLink>http://learn.perl.org/faq/</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>http://www.perl.org</MoreInformationLink>
+    <Version>5.20.2</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>plex</Name>
+    <DisplayName>Plex</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/plex.tgz</Download>
+    <Description>Home Media playback system with a central Server which can stream its media to many Plex player applications.</Description>
+    <Version>1.24.5.5173.39</Version>
+    <WebUI>:32400/web/index.html</WebUI>
+    <SetupWizard/>
+    <HelpText>Plex App Support</HelpText>
+    <HelpLink>https://support.plex.tv/</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://plex.tv/</MoreInformationLink>
+  </App>
+  <App>
+    <Name>proftpd</Name>
+    <DisplayName>ProFTPd</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/proftpd.tgz</Download>
+    <Description>Free and open-source FTP server software compatible with Unix-like systems and Microsoft Windows.</Description>
+    <HelpText>ProFTPD App Support</HelpText>
+    <HelpLink>http://www.proftpd.org/docs/howto/index.html</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>http://www.proftpd.org</MoreInformationLink>
+    <Version>1.3.5a-1</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>pydio</Name>
+    <DisplayName>Pydio</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/pydio.tgz</Download>
+    <Description>Open source software that turns instantly any server (on premise, NAS, cloud IaaS or PaaS) into a file sharing platform.</Description>
+    <Version>6.0.8</Version>
+    <HelpText>Pydio App Support</HelpText>
+    <HelpLink>https://forum.pydio.com</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://pydio.com</MoreInformationLink>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>python2</Name>
+    <DisplayName>Python 2</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/python2.tgz</Download>
+    <Description>Python 2.7.11 - A programming language for working more quickly and integrating systems more effectively.</Description>
+    <Version>2.7.11.7</Version>
+    <WebUI/>
+    <SetupWizard/>
+    <HelpText>Python App Support</HelpText>
+    <HelpLink>https://www.python.org/community/forums/</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://www.python.org</MoreInformationLink>
+  </App>
+  <App>
+    <Name>python3</Name>
+    <DisplayName>Python 3</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/python2.tgz</Download>
+    <Description>Python 3.9.7 - A programming language for working more quickly and integrating systems more effectively.</Description>
+    <HelpText>Python App Support</HelpText>
+    <HelpLink>https://www.python.org/community/forums/</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://www.python.org</MoreInformationLink>
+    <Version>3.9.7.2</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>ruby2</Name>
+    <DisplayName>Ruby 2</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/ruby2.tgz</Download>
+    <Description>Ruby 2 - Interpreted and object oriented scripting language with simple syntax.</Description>
+    <HelpText>Ruby App Support</HelpText>
+    <HelpLink>https://www.ruby-lang.org/en/community/</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://www.ruby-lang.org/en/</MoreInformationLink>
+    <Version>2.2.3</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>sabnzbd</Name>
+    <DisplayName>SABnzbd</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/sabnzbd.tgz</Download>
+    <Description>Open source multi-platform binary newsgroup downloader written in Python.</Description>
+    <HelpText>SABnzbd App Support</HelpText>
+    <HelpLink>https://sabnzbd.org/live-chat.html</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://sabnzbd.org</MoreInformationLink>
+    <Version>0.7.20-1</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>screen</Name>
+    <DisplayName>Screen</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/screen.tgz</Download>
+    <Description>Screen is a full-screen window manager that multiplexes a physical terminal between several processes, typically interactive shells.</Description>
+    <HelpText>Screen App Support</HelpText>
+    <HelpLink>https://www.gnu.org/doc/doc.html</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://www.gnu.org/software/screen/</MoreInformationLink>
+    <Version>4.3.1</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>sickbeard</Name>
+    <DisplayName>SickBeard</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/sickbeard.tgz</Download>
+    <Description>PVR application that downloads and manages TV shows optimized for use with SABnzbd.</Description>
+    <HelpText>SickBeard App Support</HelpText>
+    <HelpLink>https://code.google.com/archive/p/sickbeard/wikis</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>http://sickbeard.com</MoreInformationLink>
+    <Version>0.507.63-1</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>svn</Name>
+    <DisplayName>Subversion</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/svn.tgz</Download>
+    <Description>Software versioning and revision control system distributed as free software under the Apache License.</Description>
+    <HelpText>Subversion App Support</HelpText>
+    <HelpLink>https://subversion.apache.org/reporting-issues.html</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://subversion.apache.org</MoreInformationLink>
+    <Version>1.9.0</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>transmission</Name>
+    <DisplayName>Transmission</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/transmission.tgz</Download>
+    <Description>Transmission is a free BitTorrent client which features a simple user interface.</Description>
+    <HelpText>Transmission App Support</HelpText>
+    <HelpLink>https://forum.transmissionbt.com</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://transmissionbt.com</MoreInformationLink>
+    <Version>2.84-2</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>unrar</Name>
+    <DisplayName>Unrar</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/unrar.tgz</Download>
+    <Description>File archiver with a high compression ratio</Description>
+    <HelpText>Unrar App Support</HelpText>
+    <HelpLink>https://www.rarlab.com/feedback.htm</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://www.rarlab.com</MoreInformationLink>
+    <Version>5.3.2</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>wordpress</Name>
+    <DisplayName>WordPress</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/wordpress.tgz</Download>
+    <Description>Online, open source website creation tool written in PHP.</Description>
+    <Version>5.3.2.26</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+    <HelpText>WordPress App Support</HelpText>
+    <HelpLink>https://en.support.wordpress.com</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://en.wordpress.com/features/</MoreInformationLink>
+  </App>
+  <App>
+    <Name>ResilioSync</Name>
+    <DisplayName>Resilio Sync</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/ResilioSync.tgz</Download>
+    <Description>Sync uses peer-to-peer technology to provide fast, private file sharing for teams and individuals</Description>
+    <Version>2.6.3.18</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+    <HelpText>Resillio Sync App Support</HelpText>
+    <HelpLink>https://help.resilio.com/hc/en-us</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://www.resilio.com/individuals/#</MoreInformationLink>
+  </App>
+  <App>
+    <Name>twonky</Name>
+    <DisplayName>Twonky Media Server</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/twonky.tgz</Download>
+    <Description>With Twonky you can quickly discover your media libraries in your home, and enjoy them on connected devices.</Description>
+    <Version>8.4.0.8</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+    <HelpText>Twonky App Support</HelpText>
+    <HelpLink>https://docs.twonky.com/display/TF/Twonky+FAQ</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://twonky.com</MoreInformationLink>
+  </App>
+  <App>
+    <Name>QuikFynd</Name>
+    <DisplayName>QuikFynd</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/QuikFynd.tgz</Download>
+    <Description>QuikFynd intelligently organizes data on your NAS, so that you can find your files quickly using its full text search capabilities.</Description>
+    <Version>3.0.6.12</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+    <HelpText>QuikFynd App Support</HelpText>
+    <HelpLink>https://www.quikfynd.com/support/</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://www.quikfynd.com</MoreInformationLink>
+  </App>
+  <App>
+    <Name>netsnmp</Name>
+    <DisplayName>Net-SNMP</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/netsnmp.tgz</Download>
+    <Description>Simple Network Management Protocol (SNMP) is a widely used protocol for monitoring network equipment.</Description>
+    <Version>5.7.3.13</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+    <HelpText>Net-SNMP App Support</HelpText>
+    <HelpLink>http://www.net-snmp.org/support/contacts.html</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>http://www.net-snmp.org</MoreInformationLink>
+  </App>
+  <App>
+    <Name>fileshadow</Name>
+    <DisplayName>FileShadow</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/fileshadow.tgz</Download>
+    <Description>Use FileShadow to preserve your files in the cloud, making them easy to find by the contents of the file or subject in a picture, all independent of what happens to the originals, so you can always find your files. Learn more at www.fileshadow.com.</Description>
+    <HelpText>Support Page</HelpText>
+    <HelpLink>https://preview.fileshadow.com/FAQ.html</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://fileshadow.com/</MoreInformationLink>
+    <Version>3006.10</Version>
+    <WebUI>WebUI</WebUI>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>RetrospectBackup</Name>
+    <DisplayName>Retrospect Backup</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/RetrospectBackup.tgz</Download>
+    <Description>Protect the data on your computers with Retrospect Backup. Retrospect runs on a Mac or Windows computer and backs up all of the computers at your home or business to your Drobo or to the cloud. Click the link below to download Retrospect Backup to your computer for installation. As a Drobo customer, you are eligible for a special discount.</Description>
+    <HelpText>Download Retrospect Backup</HelpText>
+    <HelpLink>https://www.retrospect.com/drobo_trial?utm_source=DroboDashboard&amp;utm_medium=app&amp;utm_campaign=DroboApp&amp;utm_content=download</HelpLink>
+    <MoreInformation>Step-by-Step Integration Guide</MoreInformation>
+    <MoreInformationLink>https://www.retrospect.com/drobo?utm_source=DroboDashboard&amp;utm_medium=app&amp;utm_campaign=DroboApp&amp;utm_content=setup</MoreInformationLink>
+    <Version/>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+  <App>
+    <Name>wsdd</Name>
+    <DisplayName>Web Service Discovery</DisplayName>
+    <NoFTPUpdates>0</NoFTPUpdates>
+    <Download>ftp://updates.drobo.com/droboapps/2.1/downloads/wsdd.tgz</Download>
+    <Description>Assists with automatic discovery of your Drobo particularly in Windows environments where SMBv1 is disabled.</Description>
+    <HelpText>WSD Support</HelpText>
+    <HelpLink>https://github.com/christgau/wsdd/discussions</HelpLink>
+    <MoreInformation>More Information</MoreInformation>
+    <MoreInformationLink>https://github.com/christgau/wsdd</MoreInformationLink>
+    <Version>0.6.4.6</Version>
+    <WebUI/>
+    <SetupWizard/>
+  </App>
+</AppsList>
