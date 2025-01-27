@@ -1,5 +1,5 @@
 # About This Repository
-This is a reposity of software the supported the drobo direct access storage and network attached storage products.  The drobo website is now defunct and support has transitioned to a self-sevice mode. I have placed all the available drobo dashboard installation files in this repository.  If you have others to supply, please feel free to suggest and edit and provide the software to me (all software will be thoroughly scanned for safety and security before it will be posted to the repo.
+This is a reposity of software for the drobo direct access storage and network attached storage products.  The drobo website is now defunct and support has transitioned to a self-sevice mode. I have placed all the available drobo dashboard installation files in this repository.  If you have others to supply, please feel free to suggest an edit and provide the software to me (all software will be thoroughly scanned for safety and security before it will be posted to the repo.
 
 Feel free to read through a brief history of drobo which I've provided below.
 
